@@ -1,0 +1,25 @@
+{
+  "name": "noerr",
+  "version": "1.0.1",
+  "description": "Safe property reference chaining without errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpyw/noerr.git"
+  },
+  "keywords": [
+    "safe",
+    "null",
+    "undefined",
+    "error"
+  ],
+  "author": "mpyw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpyw/noerr/issues"
+  },
+  "homepage": "https://github.com/mpyw/noerr#readme"
+}
