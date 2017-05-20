@@ -1,6 +1,6 @@
 {
   "name": "noerr",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "Safe property reference chaining without errors",
   "main": "index.js",
   "scripts": {
